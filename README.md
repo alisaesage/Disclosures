@@ -58,7 +58,7 @@ CVE-2018-XXXX: VirtualBox 3D Virtualization Memory Corruption Elevation of Privi
 Analysis
 
 CVE-2019-0717: Hyper-V vmswitch.sys Out of Bounds Read Vulnerability  
-**TBD**
+Proof-of-concept testcase
 
 CVE-2019-FFFF: nginx module njs Heap Buffer Overflow Vulnerability (multiple)  
 **TBD** 
