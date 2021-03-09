@@ -70,4 +70,4 @@ CVE.*FFFF: the CVE ID was never assigned
 
 ## Credits
 
-[Alisa Esage](http://twitter.com/alisaesage), unless stated otherwise
+All vulns here were found and proof-of-concept exploits developed by Alisa Esage, unless stated otherwise. Learn how at my [Zero Day Engineering trainings](https://zerodayengineering.com/training), and [follow me](https://twitter.com/alisaesage) on Twitter.
