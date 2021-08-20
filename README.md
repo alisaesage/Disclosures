@@ -2,6 +2,8 @@
 
 Zero-day and N-day security vulnerability notes, analysis, and proof-of-concepts
 
+URL: https://github.com/badd1e/Disclosures
+
 ## List 
 
 CVE-2009-2629: nginx http module Buffer Underflow Remote Code Execution Vulnerability  
@@ -70,4 +72,6 @@ CVE.*FFFF: the CVE ID was never assigned
 
 ## Credits
 
-All vulns here were found and proof-of-concept exploits developed by Alisa Esage, unless stated otherwise. Learn how at my [Zero Day Engineering trainings](https://zerodayengineering.com/training), and [follow me](https://twitter.com/alisaesage) on Twitter.
+All vulns here were found and proof-of-concept exploits developed by Alisa Esage, unless stated otherwise. 
+My trainings and mini-classes: [Zero Day Engineering](https://zerodayengineering.com/training)
+Twitter: [@alisaesage](https://twitter.com/alisaesage).
